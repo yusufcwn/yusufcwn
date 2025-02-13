@@ -16,5 +16,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PocketMine-MP](https://img.shields.io/badge/PocketMine--MP-34AADC?style=for-the-badge&logo=minecraft&logoColor=white)
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanici_adi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullanici_adi&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufcwn&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufcwn&layout=compact&theme=dark)
