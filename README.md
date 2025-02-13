@@ -1,11 +1,11 @@
-# Hi 👋, I'm [Yusufcwn]
+# Hi 👋, I'm Yusufcwn
 
-## A Pocketmine-MP Developer from [Türkiye/Sakarya]
+## A Pocketmine-MP Developer from Türkiye/Sakarya
 
-- 🔭 I’m currently working on **[ZaunCraft]**
-- 🌱 I’m currently learning **[JavaScript for Discord Bot]**
-- 📫 How to reach me: [Discord: yusufcwn]
-- ⚡ Fun fact: [Full Stack Saklaban]
+- 🔭 I’m currently working on **ZaunCraft**
+- 🌱 I’m currently learning **JavaScript for Discord Bot**
+- 📫 How to reach me: Discord: yusufcwn
+- ⚡ Fun fact: Full Stack Saklaban
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yusufcwn_)
